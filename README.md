@@ -100,14 +100,20 @@ As imagens abaixo apresentarão as etapas de montagem, organização dos equipam
 - Cabeamento de rede.
 - Diagnóstico e resolução de problemas.
 
-## 👨‍💻 Integrantes
+👥 Organização dos Grupos
 
-Projeto desenvolvido por alunos, com o objetivo de aplicar conhecimentos técnicos na construção de uma infraestrutura de rede funcional.
-
----
-
+O projeto OVERCLOCK-FIGHT foi dividido em 4 grupos de trabalho, com o objetivo de organizar as atividades, distribuir responsabilidades e facilitar o desenvolvimento da LAN House.
 <p align="center">
-  **OVERCLOCK-FIGHT**
+
+GRUPO 1: Gabriel, Rafaela , jamile , Milena , Gabriela
+
+GRUPO 2: Reinaldo, Gustavo, Ricardo, Jhonatan, Miguel
+
+GRUPO 3: Jhonatan, Eduardo, Mhateus, Victor, Felipe Dodo
+
+GRUPO 4: Giovanna, Vinicius, Lucas, Felipe Bispo 
+ 
+ **OVERCLOCK-FIGHT**
   
   Projeto acadêmico de infraestrutura de redes.
 </p>
