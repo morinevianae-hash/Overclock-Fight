@@ -106,6 +106,11 @@ As imagens abaixo apresentarão as etapas de montagem, organização dos equipam
 
 Urban Terror https://www.urbanterror.info/home/
 
+Timer Café   https://www.fad-softwares.com.br/
+
+Driver Booster https://www.iobit.com/pt/driver-booster.php
+
+
 ## 👥 Organização dos Grupos
 
 O projeto OVERCLOCK-FIGHT foi dividido em 4 grupos de trabalho, com o objetivo de organizar as atividades, distribuir responsabilidades e facilitar o desenvolvimento da LAN House.
