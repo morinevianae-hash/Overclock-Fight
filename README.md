@@ -38,6 +38,7 @@ O projeto busca demonstrar, na prática, conceitos de infraestrutura de TI, mont
 | Cabos Ethernet | Conforme necessidade | Comunicação entre equipamentos |
 
 ## 🌐 Topologia da Rede
+<img width="800" height="600" alt="a5ac62fc-1464-4971-8f99-99a698d654bb" src="https://github.com/user-attachments/assets/95df6819-710e-4741-b2fa-5f5c703d4067" />
 
 A rede utiliza uma estrutura física em estrela, na qual os computadores são conectados a um equipamento central responsável pela interligação dos dispositivos.
 
@@ -77,6 +78,7 @@ Algumas medidas consideradas no projeto:
 - Atualização dos sistemas operacionais.
 
 ## 🧪 Testes Realizados
+<img width="800" height="600" alt="aa923fe5-fd99-4260-b478-9eae18f4e91c" src="https://github.com/user-attachments/assets/4eccd205-a8a1-4f7c-b86b-e556b0417c4f" />
 
 - Teste de conectividade utilizando `ping`.
 - Verificação dos endereços IP.
