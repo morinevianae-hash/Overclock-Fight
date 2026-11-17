@@ -102,7 +102,11 @@ As imagens abaixo apresentarão as etapas de montagem, organização dos equipam
 - Cabeamento de rede.
 - Diagnóstico e resolução de problemas.
 
-👥 Organização dos Grupos
+## 💻 Aplicativos utilizados
+
+Urban Terror https://www.urbanterror.info/home/
+
+## 👥 Organização dos Grupos
 
 O projeto OVERCLOCK-FIGHT foi dividido em 4 grupos de trabalho, com o objetivo de organizar as atividades, distribuir responsabilidades e facilitar o desenvolvimento da LAN House.
 <p align="center">
