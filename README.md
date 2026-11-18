@@ -1,3 +1,8 @@
+![GitHub License](https://img.shields.io/github/license/morinevianae-hash/Overclock-Fight)
+
+
+
+
 # 🎮 OVERCLOCK-FIGHT | LAN HOUSE CASEIRA
 
 <p align="center">
