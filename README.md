@@ -33,9 +33,6 @@ O projeto busca demonstrar, na prática, conceitos de infraestrutura de TI, mont
 - Aplicar conceitos de hardware e redes de computadores.
 - Documentar todas as etapas de desenvolvimento.
 
-
-
-
 ## 🖥️ Estrutura da LAN House
 
 | Equipamento | Quantidade | Função |
@@ -82,6 +79,7 @@ Nesta seção serão documentadas as configurações utilizadas:
 - Servidor DNS.
 - Configuração DHCP ou IP estático.
 - Testes de comunicação entre os computadores.
+
 
 
 
