@@ -86,11 +86,6 @@ Algumas medidas consideradas no projeto:
 - Verificação da conexão com o servidor.
 - Teste de acesso à internet.
 
-## 📸 Galeria do Projeto
-
-As imagens abaixo apresentarão as etapas de montagem, organização dos equipamentos e funcionamento da infraestrutura.
-
-<!-- Adicione suas imagens nesta seção -->
 
 ## 📚 Conhecimentos Aplicados
 
