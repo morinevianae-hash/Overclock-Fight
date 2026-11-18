@@ -38,6 +38,10 @@ O projeto busca demonstrar, na prática, conceitos de infraestrutura de TI, mont
 
 ## 🖥️ Estrutura da LAN House
 
+
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d4bfbb90-1dc8-4cdc-b87a-dbb75a85e08e" />
+
 | Equipamento | Quantidade | Função |
 |---|---:|---|
 | Computadores clientes | 8 | Acesso dos usuários |
@@ -45,6 +49,8 @@ O projeto busca demonstrar, na prática, conceitos de infraestrutura de TI, mont
 | Switch | Conforme montagem | Interligação dos dispositivos |
 | Roteador | 1 | Conexão com a rede externa |
 | Cabos Ethernet | Conforme necessidade | Comunicação entre equipamentos |
+
+
 
 
 
