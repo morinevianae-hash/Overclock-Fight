@@ -143,6 +143,10 @@ Driver Booster https://www.iobit.com/pt/driver-booster.php
 
 
 
+## Lincença MIT
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ## 👥 Organização dos Grupos
 
