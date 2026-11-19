@@ -64,7 +64,6 @@ O projeto demonstra, na prática, conceitos de infraestrutura de TI, montagem de
 
 ## 🌐 Topologia da rede
 
-<img width="600" height="800" alt="Topologia da rede Overclock-Fight" src="https://github.com/user-attachments/assets/4d1fe804-0f68-4942-b71a-395a41facc96" />
 
 A rede utiliza uma topologia física em estrela. O roteador, o servidor e os oito computadores clientes são interligados pelo switch central.
 
